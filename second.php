@@ -1,0 +1,10 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf=8" />
+        <title>Testing out rubywahoo.github.io</title>
+    </head>
+    <body>
+        <h1>This is my github test (rubywahoo.github.io)</h1>
+    </body>
+</html>
